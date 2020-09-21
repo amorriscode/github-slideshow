@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+MLH is awesome and this tutorial is too!
 Use the left arrow to go back!
